@@ -1,0 +1,14 @@
+/**
+{
+  "api": 1,
+  "name": "Poopificator",
+  "description": "Replace roughly 20% of words with poop emojis; preserve whitespace and respect selections.",
+  "author": "Ivan / Seven Yu",
+  "icon": "dice",
+  "tags": "poop,emoji,fun"
+}
+**/
+
+function main(state) {
+  state.text = state.text.replace(/\S+/g, word => Math.random() < 0.2 ? "💩" : word);
+}

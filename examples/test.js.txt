@@ -1,0 +1,14 @@
+/**
+{
+  "api": 1,
+  "name": "Demo: Selection-Aware Script",
+  "description": "Demonstrate text handling without changing content or exposing it in messages.",
+  "author": "Seven Yu",
+  "icon": "dice",
+  "tags": "demo,script,test"
+}
+**/
+
+function main(state) {
+  state.postInfo("Text length: " + Array.from(state.text).length + " code points.");
+}
