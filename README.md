@@ -11,7 +11,7 @@
 - [官方使用文档](https://github.com/IvanMathy/Boop/blob/main/Boop/Documentation/Readme.md)
 - [自定义脚本 API](https://github.com/IvanMathy/Boop/blob/main/Boop/Documentation/CustomScripts.md)
 
-本仓库是个人脚本合集，与 Boop 官方项目独立维护。
+本仓库是个人使用的 Boop 脚本项目，非 Boop 官方项目。
 
 ## 安装与使用
 
@@ -73,4 +73,4 @@ PEM 命令只排版：校验头尾标签一致、单个块和带必要 padding �
 
 采用 [MIT License](LICENSE)。
 
-感谢 [Ivan Mathy 和 Boop 社区](https://github.com/IvanMathy/Boop)。部分脚本最初来自社区示例；原始作者包括 Ivan、Joseph Ng Rong En、luisfontes19 和 tlewis，后续由 Seven Yu 整理和维护。保留适用的原作者署名与版权声明。
+感谢 [Ivan Mathy 和 Boop 社区](https://github.com/IvanMathy/Boop)。本项目仅用于存放个人使用的 Boop 脚本，部分脚本参考或源自社区示例，相关作者署名与版权声明予以保留。
